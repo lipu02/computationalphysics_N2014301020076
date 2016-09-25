@@ -1,0 +1,9 @@
+##L1
+##摘要
+这是一个可以让名字在屏幕上显示出来并且移动起来的程序
+##正文
+[Homework3L1](https://github.com/lipu02/computationalphysics_N2014301020076/blob/master/Homework3/Homework3L1.py)
+##总结
+在名字面前加不同字符的空格形成移动的效果是最简单的想法
+##致谢
+请教了其他同学
