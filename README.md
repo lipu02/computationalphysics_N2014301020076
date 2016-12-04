@@ -14,3 +14,5 @@
 [homework8](https://github.com/lipu02/computationalphysics_N2014301020076/tree/master/Homework8)
 
 [homework9](https://github.com/lipu02/computationalphysics_N2014301020076/tree/master/Homework9)
+
+[homework10](https://github.com/lipu02/computationalphysics_N2014301020076/tree/master/Homework10)
